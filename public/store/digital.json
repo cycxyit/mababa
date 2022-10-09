@@ -6,6 +6,11 @@
       "image": "images/digital/iphone.jpg"
     },
     {
+      "name": "iPhone 14 Pro Max",
+      "price": 12690,
+      "image": "images/digital/iphone14promax.jpg"
+    },
+    {
       "name": "Beats Studio3 Wireless",
       "price": 2000,
       "image": "images/digital/02.jpg"
