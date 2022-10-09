@@ -68,6 +68,12 @@
       "image": "images/charity/un.jpg"
     },
     {
+      "name": "收购迪斯尼乐园",
+      "price": 60000000000,
+      "isUser": true,
+      "image": "images/charity/disneyshanghai.jpg"
+    },
+    {
       "name": "打赏马爸爸直播",
       "price": 999.99,
       "isUser": true,
